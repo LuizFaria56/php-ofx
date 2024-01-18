@@ -1,6 +1,10 @@
 # PHP OFX
 Integracao com arquivo Open Financial Exchange (OFX) em PHP
 
+## INSTALACAO
+```shell
+composer require luizfaria56/php-ofx
+```
 ## UTILIZACAO
 Exemplo de utilizacao:
 ```php
