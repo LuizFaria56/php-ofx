@@ -1,0 +1,20 @@
+{
+   "name": "LuizFaria56/php-ofx",
+   "description": "Integracao com arquivo OFX em PHP",
+   "type": "library",
+   "license": "GPL-3.0-or-later",
+   "authors": [
+      {
+         "name": "Luiz Faria",
+         "email": "luiz.antonio.faria@gmail.com"
+      }
+   ],
+   "autoload": {
+      "psr-4": {
+         "LuizFaria\\Ofx\\": "src/"
+      }
+   },
+   "require": {
+      "php": ">=7.0"
+   }
+}
